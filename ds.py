@@ -17,7 +17,8 @@ def menu():
   2. Generate Identity
   3. Jam comms
   4. Greenlight
-  5. 
+  5. Phone
+  6. 
 
         """)
 def main():
